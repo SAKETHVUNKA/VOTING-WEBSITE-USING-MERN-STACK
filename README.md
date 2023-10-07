@@ -1,6 +1,6 @@
 # VOTING-WEBSITE-USING-MERN-STACK
 
-Usage:
+## Usage:
 
   1. Make sure mongodb is installed.
   2. run npm install in directory of project.
@@ -8,3 +8,6 @@ Usage:
   4. start react app using 'npm start'.
   
   Sample excel files for candidate and voter details have been provided.
+
+## Other Contributors :
+* ADNAN ZAKI : https://github.com/zaki-1337
